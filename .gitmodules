@@ -1,6 +1,3 @@
 [submodule "components/icm20948"]
 	path = components/icm20948
 	url = https://github.com/stephendpmurphy/icm20948.git
-[submodule "components/ESP32-S3_ESP-IDF_COMPONENTS"]
-	path = components/ESP32-S3_ESP-IDF_COMPONENTS
-	url = https://github.com/K0I05/ESP32-S3_ESP-IDF_COMPONENTS.git
