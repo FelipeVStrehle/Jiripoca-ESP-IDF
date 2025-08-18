@@ -2,6 +2,8 @@
 #define ACQUIRE_H
 
 #include "common.h"
+#include "bmp390.h"
+#include "icm20948_api.h"
 
 #define G 9.80665
 
